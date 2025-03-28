@@ -1,0 +1,6 @@
+/app_cega
+/CAJAS
+db_connection.py
+detector_error_cajas.py
+test.py
+.DS_Store
