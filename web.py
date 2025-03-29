@@ -1,5 +1,6 @@
+
 from flask import Flask, render_template, request
-from main import filtrar_ventas
+
 app = Flask(__name__)
 
 

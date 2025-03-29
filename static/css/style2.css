@@ -1,0 +1,57 @@
+/* MegaGLobales */
+html{
+    box-sizing: border-box;
+    font-size: 62.5%; /* 1 REM = 10px */
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+h1{
+    font-size: 4.8rem;
+}
+h2{
+    font-size: 4rem;
+}
+h3{
+    font-size: 3.2rem;
+}
+h4{
+    font-size: 2.8rem;
+}
+a{
+    text-decoration: none;
+}
+
+
+
+/* Barra superior nomas */
+
+.nav{
+    height: 15rem;
+    background-color: cadetblue;
+    padding: 2rem 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.nav .title{
+    width: 100%;
+}
+.nav .title h1{
+    width: 100%;
+    font-size: 3rem;
+}
+
+
+/*Formulario */
+.row{
+    margin: 0 5px;
+}
+.container .formulario .titulo-label{
+    font-size: 1.5rem;
+}
+
+.container .form .select{
+    width: 10rem;
+}
